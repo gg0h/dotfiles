@@ -198,4 +198,7 @@ if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
     ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=#999'
 fi
 
+# Created by `pipx` on 2021-07-02 10:43:51
+export PATH="$PATH:/home/kali/.local/bin"
+
 
