@@ -201,4 +201,4 @@ fi
 # Created by `pipx` on 2021-07-02 10:43:51
 export PATH="$PATH:/home/kali/.local/bin"
 
-
+export LC_ALL=en_US.UTF-8
