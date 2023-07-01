@@ -189,7 +189,7 @@ alias l='ls -CF'
 alias ..='cd ..'
 
 # functions
-source ~/.zsh_functions
+source ~/.bash_functions
 
 # enable auto-suggestions based on the history
 if [ -f /usr/share/zsh-autosuggestions/zsh-autosuggestions.zsh ]; then
